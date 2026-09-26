@@ -1,0 +1,1510 @@
+FEAR & LOATHING — LINK CHECK REPORT
+Generated: 09/26/2026 10:28:36
+
+HTML files scanned: 105
+Unique web URLs checked: 3069
+
+SUMMARY
+=======
+404                  31
+ERROR               691
+LOCAL MISSING         9
+OK                 3574
+REDIRECT             72
+
+
+
+
+
+
+ERROR
+=====
+
+
+SOURCE: timeline\2021\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/contracto/death%20clause.jpg
+
+SOURCE: timeline\2021\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/christmas-dinner.png
+
+SOURCE: timeline\2021\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/p-and-dodgy-bloke-1.png
+
+SOURCE: timeline\2023\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/vssh-memory-1.png
+
+SOURCE: timeline\2023\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/me-in-my-pants.jpg
+
+SOURCE: timeline\2023\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/pros-and-cons.jpg
+
+SOURCE: timeline\2023\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/google-searches/april-24/josep-l.jpg
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/gv/Response%20from%20the%20Generalitat%203%20April%2024%202.jpg
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/gv/Response%20from%20the%20Generalitat%203%20April%2024%201.jpg
+
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/tweets/tweet-letter-1.jpg
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/tweets/tweet-letter-2.jpg
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/tweets/tweet-letter-3.jpg
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/conservatory-2.jpg
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/conservatory-1.jpg
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#beams
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#meeting-a-weird-guy
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#the-britishrussian-girl-at-the-conservatory
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#beams
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#telegramsignal
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#hidden-cameras-trigger
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/google-searches/april-24/josep-l.jpg
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/google-searches/april-24/image_123655411%20(1).jpg
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#big-chat-with-the-hacker-begins
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#big-chat-with-the-hacker-begins
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#beams
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#telegramsignal
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#serious-poisoning-with-intent-to-kill
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#wednesday-13th-march
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/fake-accounts/family/son.jpg
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#fake-account-posts-about-peeping-at-pre-schoolers
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#polygon-fires-the-whole-writing-team
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#serious-poisoning-with-intent-to-kill
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#possum-man-on-the-beach
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/p-and-dodgy-bloke-2.png
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#meeting-inma-and-paloma-the-spanish-official-in-madrid
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#meeting-inma-and-paloma-the-spanish-official-in-madrid
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#the-police-trafficking-email
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#meeting-inma-and-paloma-the-spanish-official-in-madrid
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#my-first-trip-to-the-spanish-police-in-denia
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#reporting-the-crimes-to-the-police-in-madrid
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/september/#rocio-vidal
+
+SOURCE: timeline\2024\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#gabriel-silva-is-given-my-role-at-polygon
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#meeting-inma-and-paloma-the-spanish-official-in-madrid
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/reformat-machine.jpg
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#taru-ann
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#ugly
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/november/#a-threat-to-my-brothers-life
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#volunteers-not-what-they-seem
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#we-take-what-we-want-they-say-were-hunters-they-say
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#grooming-an-innocent-girl-into-porn-101
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#possum-man-on-the-beach
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#taru-ann
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#grooming-an-innocent-girl-into-porn-101
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#4
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/fake-accounts/winston-like-1.jpg
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/fake-accounts/winston-like-2.jpg
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/fake-accounts/winston-like-3.jpg
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#dpr-cyber-expert-alicante
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#meeting-my-belgian-friend
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#january-18th-correspondence-to-the-generalitat
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#the-smug-man-i-always-see
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#january-18th-correspondence-to-the-generalitat
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#domingo-demonstrates-his-control-of-women-again
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#an-inspector-calls
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#ana-and-ana-and-paqui
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#i-see-my-naked-16-year-old-body-on-x-again
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/&#109;&%2397;&%23105;&%23108;&%23116;&%23111;&%2358;&%2397;&%23110;&%23100;&%23121;&%2346;&%2399;&%23108;&%2397;&%23114;&%23107;&%23101;&%2364;&%23102;&%2397;&%2399;&%23116;&%2345;&%23117;&%23107;&%2346;&%23111;&%23114;&%23103;&%2346;&%23117;&%23107;
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#tuesday-12th-march
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#the-photographer
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#a-serious-attack-on-my-wellbeing-from-piano-teachers-at-denia-conservatory
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#a-serious-attack-on-my-wellbeing-from-piano-teachers-at-denia-conservatory
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#evidence-of-mass-cyber-stalking-technology-or-something-more-sinister
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#madrid
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/wee-katie.jpg
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#winston-may
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/Nossa_Senhora_de_Guadalupe.jpg
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/attending-therapy.png
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#fake-accounts-reference-payments-i-have-made-online
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#email-to-paqui
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#threatening-cars-outside-my-apartment
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#a-serious-attack-on-my-wellbeing-from-piano-teachers-at-denia-conservatory
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#a-serious-attack-on-my-wellbeing-from-piano-teachers-at-denia-conservatory
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://x.com/1FRGVN/status/1749706361003262351
+FINAL:  https://x.com/1FRGVN/status/1749706361003262351
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#european-court-of-human-rights
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#the-pakistani-yorkshire-man
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#ajay-alicia-aman-pandey-and-mushroom-man-perform-a-military-coup-on-my-job
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#the-pakistani-yorkshire-man
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#taking-two-weeks-vacation-from-polygon
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#uk-general-election
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#the-pakistani-yorkshire-man
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#ben-finds-a-rust-developer
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#serious-poisoning-with-intent-to-kill
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#reporting-hacking-to-polygon-labs
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#threatening-men-at-knowhere
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#leaving-the-knowhere-offices
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#madrid
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#the-piano-concert
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/google-searches/july-24.jpg
+
+SOURCE: timeline\2024\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#aniloviator
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://www.eastfinchleyfestival.org/
+FINAL:  https://www.eastfinchleyfestival.org/
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#seonaiddawn
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#the-piano-concert
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#lorraine-tortured-whistleblower
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#madrid
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#dreaming-of-the-pedophile
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#drugged-in-the-street-by-denia-gypsies
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#madrid
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#meeting-inma-and-paloma-the-spanish-official-in-madrid
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://www.childline.org.uk/
+FINAL:  https://www.childline.org.uk/
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#polygon-fires-the-whole-writing-team
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#i-tell-paqui-im-being-terrorized-by-teachers-and-staff-at-the-conservatory
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/gv/8.%20Receipt%20date%20received%205%20March%20at%20piano%20lesson.jpg
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/gv/8.%20Receipt%20of%20something%20from%20the%20Generalitat%201%205%20March%202023.jpg
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/gv/8.%20Receipt%20of%20something%20from%20the%20Generalitat%202%205%20March%202023.jpg
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#response-from-the-generalitat
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#fatima-20-26th-october
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/13-end/#i-tell-gabriel-silva
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#the-britishrussian-girl-at-the-conservatory
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/evidence/12-march-alarm-notification.jpg
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/13-end/#lorraine-tortured-whistleblower
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/13-end/#chris-bj-by-gaslight
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/13-end/#distraction-then-drugging
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#poison-warnings
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/september/#google-searches
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://fearandloathinginlasmarinas.com/13-end/#email-to-paqui
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#the-piano-concert
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#the-piano-concert
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#reporting-hacking-to-polygon-labs
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#my-first-trip-to-the-spanish-police-in-denia
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#a-serious-attack-on-my-wellbeing-from-piano-teachers-at-denia-conservatory
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://www.linkedin.com/in/jorge-alejandro-esclapez-bonet-16629a1b7/
+FINAL:  https://www.linkedin.com/in/jorge-alejandro-esclapez-bonet-16629a1b7
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://deckcard23.com/
+FINAL:  https://deckcard23.com/
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/jorge.jpg
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#polygon-fires-the-whole-writing-team
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#the-piano-concert
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#the-piano-concert
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#domestic-violence-in-choir-class
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#cracked-rib
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#my-first-trip-to-the-spanish-police-in-denia
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/evidence/Madrid%201.jpg
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/evidence/Madrid%202.jpg
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/evidence/Madrid%203.jpg
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#ana-and-ana-and-paqui
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#meeting-inma-and-paloma-the-spanish-official-in-madrid
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#my-first-trip-to-the-spanish-police-in-denia
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#the-piano-concert
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#reporting-hacking-to-polygon-labs
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#ana-and-ana-and-paqui
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#i-see-my-naked-16-year-old-body-on-x-again
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#aniloviator
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#seonaiddawn
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#election-campaign
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#i-tell-my-team-at-polygon-im-being-stalked-and-hacked-by-my-neighbors
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#reporting-hacking-to-polygon-labs
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#aniloviator
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/1-12/#the-piano-concert
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#the-third-time-im-convinced-im-going-to-be-arrested
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#volunteers-not-what-they-seem
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#distraction-then-drugging
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#dpr-cyber-expert-alicante
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#reporting-the-crimes-to-the-police-in-madrid
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#drugged-in-the-street-by-denia-gypsies
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#the-golden-fleece-of-the-rapist-sex-offender-and-rape-porn-addict-the-victims-orgasm
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#hierencore49002
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#volunteers-not-what-they-seem
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#threatening-men-outside
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#january_myth
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#ana-dresses-up-pregnant
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#hierencore49002
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://www.marriott.com/es/hotels/madpp-madrid-marriott-hotel-princesa-plaza/overview/
+FINAL:  https://www.marriott.com/es/hotels/madpp-madrid-marriott-hotel-princesa-plaza/overview/
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#serious-poisoning-with-intent-to-kill
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://www.hyatt.com/grand-hyatt/en-US/balgh-grand-hyatt-bali
+FINAL:  https://www.hyatt.com/grand-hyatt/en-US/balgh-grand-hyatt-bali
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#drugged-in-the-street-by-denia-gypsies
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#ethcc
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#drugged-in-the-street-by-denia-gypsies
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#drugged-in-the-street-by-denia-gypsies
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#gabriel-silvas-first-team-meeting-as-manager
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#meeting-inma-and-paloma-the-spanish-official-in-madrid
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#drugged-in-the-street-by-denia-gypsies
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#reporting-hacking-to-polygon-labs
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#drugged-in-the-street-by-denia-gypsies
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#polygon-fires-the-whole-writing-team
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#my-first-trip-to-the-spanish-police-in-denia
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/november/#pre-glaucoma-diagnosis
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#drugged-in-the-street-by-denia-gypsies
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/evidence/DPR-1.jpg
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/evidence/DPR-2.jpg
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#the-router-malfunctions
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#serious-poisoning-with-intent-to-kill
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#activity-in-the-nextdoor-apartment-number-18
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#meeting-inma-and-paloma-the-spanish-official-in-madrid
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://nexera.medium.com/the-nexera-ecosystem-roundup-pushing-boundaries-with-tokenization-ebda15c68ba7
+FINAL:  https://nexera.medium.com/the-nexera-ecosystem-roundup-pushing-boundaries-with-tokenization-ebda15c68ba7
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://www.linkedin.com/in/sidjain02/
+FINAL:  https://www.linkedin.com/in/sidjain02
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/&#109;&%2397;&%23105;&%23108;&%23116;&%23111;&%2358;&%23100;&%23114;&%23107;&%23109;&%23117;&%23114;&%23112;&%23104;&%23121;&%2364;&%23105;&%23101;&%23101;&%23101;&%2346;&%23111;&%23114;&%23103;
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/&#109;&%2397;&%23105;&%23108;&%23116;&%23111;&%2358;&%2374;&%23111;&%23101;&%23108;&%2364;&%23104;&%23121;&%23112;&%23101;&%2345;&%23116;&%2397;&%23108;&%23101;&%23110;&%23116;&%2346;&%2399;&%23111;&%23109;
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#squeaking-pipes
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#bumping-into-paul-again
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#visiting-inma-again-in-madrid
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#winston-may
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#opening-my-mouth
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#bullying-ramps-up-at-polygon
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#the-pakistani-yorkshire-man
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#anthony
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#post-bali
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/threats/image_123650291.jpg
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/threats/image_123655411.jpg
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/health/kidney-1.JPG
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/health/kidney-2.JPG
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/whatsapps/bea-panic.jpg
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-landlady-changes-the-bank-account-for-the-rent-again
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#6
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#youtube-with-kelly-oliver-dougall
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/health/medical-certificate-PACS.JPG
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#election-campaign
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#ugly
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/jctot19-latest.jpg
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#galway-ireland-tt
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#ajay-alicia-aman-pandey-and-mushroom-man-perform-a-military-coup-on-my-job
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#polygon
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#the-pakistani-yorkshire-man
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#the-pakistani-yorkshire-man
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#reporting-hacking-to-polygon-labs
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#grooming-an-innocent-girl-into-porn-101
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/september/#another-upsetting-targeted-woman
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#grooming-an-innocent-girl-into-porn-101
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#so-janet
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#ugly
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#irene-the-plate-lady
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#grooming-an-innocent-girl-into-porn-101
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/september/#another-upsetting-targeted-woman
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#ugly
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#irene-the-plate-lady
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/camera-offline.jpg
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#bali
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#my-first-trip-to-the-spanish-police-in-denia
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#reporting-the-crimes-to-the-police-in-madrid
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#winston-may
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#i-make-a-donation-on-x
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#irene-the-plate-lady
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#grooming-an-innocent-girl-into-porn-101
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/september/#another-upsetting-targeted-woman
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#18
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/&#109;&%2397;&%23105;&%23108;&%23116;&%23111;&%2358;&%23107;&%2397;&%23116;&%23104;&%2397;&%23114;&%23105;&%23110;&%23101;&%23106;&%2399;&%23104;&%2397;&%23114;&%23100;&%23119;&%23111;&%23111;&%23100;&%2364;&%23103;&%23109;&%2397;&%23105;&%23108;&%2346;&%2399;&%23111;&%23109;
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/&#109;&%2397;&%23105;&%23108;&%23116;&%23111;&%2358;&%23116;&%23114;&%2397;&%23116;&%2397;&%2364;&%23112;&%23111;&%23108;&%23105;&%2399;&%23105;&%2397;&%2346;&%23101;&%23115;
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#my-first-trip-to-the-spanish-police-in-denia
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/september/#another-upsetting-targeted-woman
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#irene-the-plate-lady
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#online-stalkers
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#wednesday-13th-march
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#interview-with-the-hacker
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#irene-the-plate-lady
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#6
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-handwritten-letters
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#ugly
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#madrid
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#suspected-targets
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#grooming-an-innocent-girl-into-porn-101
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/13-end/#wednesday-13th-march
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#ugly
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#the-piano-concert
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/1-12/#aniloviator
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#youtube-with-kelly-oliver-dougall
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#the-trumpet-teacher-sends-me-photos-of-himself-and-his-family
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/august/#6
+
+SOURCE: timeline\2025\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/pre-2001/1990/#n8
+
+SOURCE: timeline\2025\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/#let-women-speak-aberdeen
+
+SOURCE: timeline\2025\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#lourdes
+
+SOURCE: timeline\2025\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#lourdes
+
+SOURCE: timeline\2025\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#transforming-touch-intensive-in-dublin
+
+SOURCE: timeline\2025\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#pauls-best-friend-lucy
+
+SOURCE: timeline\2025\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/#let-women-speak-aberdeen
+
+SOURCE: timeline\2025\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#are-you-welsh
+
+SOURCE: timeline\2025\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#moorfields
+
+SOURCE: timeline\2025\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#eyes-and-kidneys-again-and-heart-now-too
+
+SOURCE: timeline\2025\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#lourdes
+
+SOURCE: timeline\2025\december\index.html
+URL:    https://fearandloathinginlasmarinas.com/november/#every-last-one-of-them
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#paul
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/letter-to-the-ambassador/the-extra-letters-after-being-turned-away-and-t/more-supplementary-frontside.jpg
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/letter-to-the-ambassador/the-extra-letters-after-being-turned-away-and-t/more-supplementary-backside.jpg
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#paul
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#telling-paul-whats-been-going-on-for-me
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/september/#rutland-house-surgery-muswell-hill
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/pre-2001/1996/#ray-archer
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/pre-2001/1991/#lea-batton
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#thunderbolt-clarity
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#i-report-hacking-drugging-poisoning-illicit-filming-and-everything-else-contained-in-this-statement-to-the-metropolitan-police
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/emails/emails-to-police-in-the-uk/forgive%20me%20the%20spam%2c%20something%20you%20might%20find%20interesting.mht
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/emails/emails-to-police-in-the-uk/Hi%20Lauren.mht
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/documents/emails/emails-to-police-in-the-uk/Party%20Of%20Women%20-%20Finchley%20and%20Golders%20Green.mht
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/timeline/pre-2001/1980/#a-nightmare-about-my-brother
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#eyes-and-kidneys-again-and-heart-now-too
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#theres-something-in-the-water
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#eyes-and-kidneys-again-and-heart-now-too
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/&#109;&%2397;&%23105;&%23108;&%23116;&%23111;&%2358;&%23107;&%2397;&%23116;&%23104;&%2397;&%23114;&%23105;&%23110;&%23101;&%23106;&%2399;&%23104;&%2397;&%23114;&%23100;&%23119;&%23111;&%23111;&%23100;&%2364;&%23103;&%23109;&%2397;&%23105;&%23108;&%2346;&%2399;&%23111;&%23109;
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#shoe-zone-harlow-essex
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#deso
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#el-pais
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#car-detailing-in-madrid
+
+SOURCE: timeline\2025\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/#i-realize-again-all-my-stuff-is-toxic
+
+SOURCE: timeline\2025\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/#a-man-who-reminds-me-of-domingo
+
+SOURCE: timeline\2025\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#thunderbolt-clarity
+
+SOURCE: timeline\2025\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/#moorfields-eye-hospital
+
+SOURCE: timeline\2025\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#i-report-hacking-drugging-poisoning-illicit-filming-and-everything-else-contained-in-this-statement-to-the-metropolitan-police
+
+SOURCE: timeline\2025\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#transforming-touch-intensive-in-dublin
+
+SOURCE: timeline\2025\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/the-hymn.jpg
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#a-man-i-recognize-bares-his-teeth-at-me
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/www.denia.com/wp-content/uploads/2025/03/firmas-recogidas-para-un-nuevo-conservatorio-de-musica-en-denia-scaled.jpg
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#goading-and-taunting-online
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#deso
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#lourdes
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#the-woman-at-the-red-lion
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://www.stonehouserestaurants.co.uk/nationalsearch/eastofengland/theredlionbarnet#/
+FINAL:  https://www.stonehouserestaurants.co.uk/nationalsearch/eastofengland/theredlionbarnet#/
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#dad-makes-me-take-him-to-his-dodgy-islamic-phone-specialist-on-camden-high-street
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/pre-2001/1991/#a-party-in-hornsey
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#the-benijembla-woman
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#thunderbolt-clarity
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/october/#thunderbolt-clarity
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#lourdes
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#moorfields
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://fearandloathinginlasmarinas.com/september/#rutland-house-surgery-muswell-hill
+
+SOURCE: timeline\2025\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/pre-2001/1990/#n8
+
+SOURCE: timeline\2025\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/pre-2001/1993/#matthew-copeland
+
+SOURCE: timeline\2025\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/september/#weddings-at-the-church
+
+SOURCE: timeline\2025\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#writing-to-the-baroness-again
+
+SOURCE: timeline\2025\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#lourdes
+
+SOURCE: timeline\2025\october\index.html
+URL:    https://fearandloathinginlasmarinas.com/november/#suicide-content-on-my-jackchardwood-account-post-finding-out-about-my-dad
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#fertility-and-pregnancy
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#poisoning-ordered-by-the-americans
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://www.chabad.org/therebbe/article_cdo/aid/2537558/jewish/13th-Day-of-Elul-5742-1982.htm
+FINAL:  https://www.chabad.org/therebbe/article_cdo/aid/2537558/jewish/13th-Day-of-Elul-5742-1982.htm
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/#a-man-who-reminds-me-of-domingo
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#the-woman-at-the-red-lion
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#lourdes
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#recoiling-on-meeting-a-violent-man
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#eyes-and-kidneys-again-and-heart-now-too
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#moorfields
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#eyes-and-kidneys-again-and-heart-now-too
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/health-diagnosis-timeline/timeline-1.jpg
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/health-diagnosis-timeline/timeline-2.jpg
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/health-diagnosis-timeline/timeline-3.jpg
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/health-diagnosis-timeline/PACS-diagnosis.jpg
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/health-diagnosis-timeline/kidney-check-BKK.jpg
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#lourdes
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#lourdes
+
+SOURCE: timeline\2025\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/january/#madrid-policia
+
+SOURCE: timeline\2026\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/february/#dangerous-driving-in-italy
+
+SOURCE: timeline\2026\april\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#the-psychological-torture-begins
+
+SOURCE: timeline\2026\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#the-pangolin-at-ben-gurion
+
+SOURCE: timeline\2026\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#dreaming-of-saint-michael-on-ascension-day
+
+SOURCE: timeline\2026\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#the-psychological-torture-begins
+
+SOURCE: timeline\2026\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#a-first-roasting
+
+SOURCE: timeline\2026\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#un-oeuf-est-un-oeuf
+
+SOURCE: timeline\2026\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#kailash
+
+SOURCE: timeline\2026\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#comparing-the-criminal-porn-gangs-with-unscrupulous-and-insane-security-service-activities
+
+SOURCE: timeline\2026\august\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/#no-room-for-form-rumi
+
+SOURCE: timeline\2026\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/pre-2001/1997/#agents
+
+SOURCE: timeline\2026\january\index.html
+URL:    https://fearandloathinginlasmarinas.com/content/images/full-moon.jpg
+
+SOURCE: timeline\2026\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/june/#hastening-home-lesson-226
+
+SOURCE: timeline\2026\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/pre-2001/1989/#sullivan
+
+SOURCE: timeline\2026\july\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#air-france
+
+SOURCE: timeline\2026\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#loka-yoga
+
+SOURCE: timeline\2026\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#loka-yoga
+
+SOURCE: timeline\2026\june\index.html
+URL:    https://www.baliyogaschool.com/
+FINAL:  https://www.baliyogaschool.com/
+
+SOURCE: timeline\2026\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#chucking-my-iphone
+
+SOURCE: timeline\2026\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#loka-yoga
+
+SOURCE: timeline\2026\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#loka-yoga
+
+SOURCE: timeline\2026\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/may/#air-france
+
+SOURCE: timeline\2026\june\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#they-tell-me-what-happened-to-lorraine
+
+SOURCE: timeline\2026\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#they-tell-me-what-happened-to-lorraine
+
+SOURCE: timeline\2026\may\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#facebook-shuts-me-down
+
+SOURCE: timeline\2026\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/april/#a-first-roasting
+
+SOURCE: timeline\2026\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/march/#transforming-touch-consultations
+
+SOURCE: timeline\2026\september\index.html
+URL:    https://fearandloathinginlasmarinas.com/july/#loka-yoga
+
+
+
+REDIRECT
+========
+SOURCE: crimes\introduction-agents\index.html
+URL:    https://www.cemclinicas.com/centro-medico-denia
+FINAL:  https://www.cemclinicas.com/en/centro-medico-denia
+
+SOURCE: crimes\protagonists\domingo-et-al\index.html
+URL:    https://www.denia.com/ramon-garcia-soler-hace-vibrar-la-plaza-del-consell-en-el-concierto-de-musica-festera-de-la-banda-de-D%C3%A9nia/26-concierto-agrupacio-artistica-musical-denia-moros-y-cristianos-2016-escuadras-en-el-publico
+FINAL:  https://www.denia.com/ramon-garcia-soler-hace-vibrar-la-plaza-del-consell-en-el-concierto-de-musica-festera-de-la-banda-de-denia/26-concierto-agrupacio-artistica-musical-denia-moros-y-cristianos-2016-escuadras-en-el-publico/
+
+SOURCE: crimes\protagonists\vidal-sastre\index.html
+URL:    https://www.youtube.com/@saxofonator/search?query=vidal%20sanchez%20sastre%20horneros
+FINAL:  https://consent.youtube.com/ml?continue=https://www.youtube.com/@saxofonator/search?query%3Dvidal%2Bsanchez%2Bsastre%2Bhorneros%26cbrd%3D1&gl=FR&hl=fr&cm=2&pc=yt&src=1&escs=ATu9isEnwNk49JZ-DwgrwU_MvHeK0EffhpANCZV0evvBOCZlwAHshFJDVkd3KKcF-T0ON39O5g7fiEkqPIM69cANTIKaX59dmhBd
+
+SOURCE: personal\health\index.html
+URL:    https://www.afflelou.es/opticas/ondara/afflelou-c-c-portal-de-la-marina-av-costa-blanca-1-local-b65-03760
+FINAL:  https://www.afflelou.es/opticas/ondara/afflelou-c-c-portal-de-la-marina-avenida-costa-blanca-1-local-b65-03760
+
+SOURCE: timeline\2011-to-2020\2012\index.html
+URL:    https://youtu.be/BueVGiyx_E4
+FINAL:  https://www.youtube.com/watch?v=BueVGiyx_E4&feature=youtu.be
+
+SOURCE: timeline\2011-to-2020\2012\index.html
+URL:    https://inmobiliaria-lex.com/
+FINAL:  https://www.inmobiliaria-lex.com/
+
+SOURCE: timeline\2011-to-2020\2014\index.html
+URL:    https://www.google.com/maps/place/D%C3%A9nia,+Alicante,+Spain/@38.8474069,0.1028702,3a,75y,273.19h,72.27t/data=!3m7!1e1!3m5!1sAKa379ejXnVgtE1BSn1aIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D17.72985641868108%26panoid%3DAKa379ejXnVgtE1BSn1aIg%26yaw%3D273.1915393963973!7i16384!8i8192!4m6!3m5!1s0x129e1b226dfbd341:0x86f3d778aff1e134!8m2!3d38.8387992!4d0.1050557!16zL20vMDFoc2Ri?entry=ttu&amp;g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D
+FINAL:  https://consent.google.com/ml?continue=https://www.google.com/maps/place/D%25C3%25A9nia,%2BAlicante,%2BSpain/@38.8474069,0.1028702,3a,75y,273.19h,72.27t/data%3D!3m7!1e1!3m5!1sAKa379ejXnVgtE1BSn1aIg!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fcb_client%253Dmaps_sv.tactile%2526w%253D900%2526h%253D600%2526pitch%253D17.72985641868108%2526panoid%253DAKa379ejXnVgtE1BSn1aIg%2526yaw%253D273.1915393963973!7i16384!8i8192!4m6!3m5!1s0x129e1b226dfbd341:0x86f3d778aff1e134!8m2!3d38.8387992!4d0.1050557!16zL20vMDFoc2Ri?entry%3Dttu%26amp;g_ep%3DEgoyMDI1MDkwMy4wIKXMDSoASAFQAw%253D%253D&gl=FR&m=0&pc=m&uxe=eomtm&cm=2&hl=fr&src=1
+
+SOURCE: timeline\2011-to-2020\2016\index.html
+URL:    https://www.youtube.com/watch?app=desktop&amp;v=jOlnhjDX30E&amp;t=755s
+FINAL:  https://www.youtube.com/
+
+SOURCE: timeline\2021\january\index.html
+URL:    https://www.zenitude-hotel-residences.com/fr_FR/residence/lourdes/121
+FINAL:  https://www.zenitude-hotel-residences.com//residences/lourdes-lacacia/
+
+SOURCE: timeline\2021\july\index.html
+URL:    https://www.google.com/maps/place/KATHMANDU+RESTAURANT/@38.8473292,0.0998328,17z/data=!4m14!1m7!3m6!1s0x129e1b1eab713bef:0xb942b79aaf5ee018!2sRestaurante+Rani+Palace!8m2!3d38.8463516!4d0.1075146!16s%2Fg%2F11cmfs1pyt!3m5!1s0x129e1b117d23e84d:0x99265dc6a93775f6!8m2!3d38.8489761!4d0.0971108!16s%2Fg%2F12cp73vx8?entry=ttu&amp;g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D
+FINAL:  https://consent.google.com/ml?continue=https://www.google.com/maps/place/KATHMANDU%2BRESTAURANT/@38.8473292,0.0998328,17z/data%3D!4m14!1m7!3m6!1s0x129e1b1eab713bef:0xb942b79aaf5ee018!2sRestaurante%2BRani%2BPalace!8m2!3d38.8463516!4d0.1075146!16s%252Fg%252F11cmfs1pyt!3m5!1s0x129e1b117d23e84d:0x99265dc6a93775f6!8m2!3d38.8489761!4d0.0971108!16s%252Fg%252F12cp73vx8?entry%3Dttu%26amp;g_ep%3DEgoyMDI1MDcwOS4wIKXMDSoASAFQAw%253D%253D&gl=FR&m=0&pc=m&uxe=eomtm&cm=2&hl=fr&src=1
+
+SOURCE: timeline\2022\february\index.html
+URL:    https://transformingtouch.com/transforming-the-experience-based-brain/online-training/
+FINAL:  https://transformingtouch.com/transforming-touch/online-training/
+
+SOURCE: timeline\2022\june\index.html
+URL:    https://portal.edu.gva.es/conservatoridenia/es/centro/organigrama/
+FINAL:  https://portal.edu.gva.es/conservatoridenia/organigrama/
+
+SOURCE: timeline\2022\october\index.html
+URL:    https://www.google.com/maps/place/Ajuntament+del+R%C3%A0fol+d
+FINAL:  https://consent.google.com/ml?continue=https://www.google.com/maps/place/Ajuntament%2Bdel%2BR%25C3%25A0fol%2Bd&gl=FR&m=0&pc=m&uxe=eomtm&cm=2&hl=fr&src=1
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/search?q=%23MaSelecta%20(from%3A1frgvn)&amp;f=live&amp;src=typed_query
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bf%3Dlive%26amp%253Bsrc%3Dtyped_query%26q%3D%2523MaSelecta%2B%2528from%253A1frgvn%2529&mode=login
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/search?q=(from%3Ajackchardwood)%20until%3A2023-09-01%20since%3A2023-07-15&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253Ajackchardwood%2529%2Buntil%253A2023-09-01%2Bsince%253A2023-07-15&mode=login
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://www.linkedin.com/in/david-ruiz-b2391711/
+FINAL:  https://www.linkedin.com/in/david-ruiz-b2391711
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/search?q=%23MaSelecta%20(from%3A1frgvn)&amp;f=live&amp;src=typed_query
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bf%3Dlive%26amp%253Bsrc%3Dtyped_query%26q%3D%2523MaSelecta%2B%2528from%253A1frgvn%2529&mode=login
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/search?q=(from%3Amatthew49200183)%20(to%3A1frgvn)&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253Amatthew49200183%2529%2B%2528to%253A1frgvn%2529&mode=login
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/Matthew49200183/status/1686307743815069696
+FINAL:  https://x.com/FUTUREXgu/status/1686307743815069696
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/Matthew49200183/status/1686307743815069696
+FINAL:  https://x.com/FUTUREXgu/status/1686307743815069696
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/search?q=%23MaSelecta%20(from%3A1frgvn)&amp;f=live&amp;src=typed_query
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bf%3Dlive%26amp%253Bsrc%3Dtyped_query%26q%3D%2523MaSelecta%2B%2528from%253A1frgvn%2529&mode=login
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/Matthew49200183/status/1729879649063416246
+FINAL:  https://x.com/FUTUREXgu/status/1729879649063416246
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/Matthew49200183/status/1729879649063416246
+FINAL:  https://x.com/FUTUREXgu/status/1729879649063416246
+
+SOURCE: timeline\2023\august\index.html
+URL:    https://x.com/search?q=(from%3Ajackchardwood)%20until%3A2023-09-10%20since%3A2023-08-29&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253Ajackchardwood%2529%2Buntil%253A2023-09-10%2Bsince%253A2023-08-29&mode=login
+
+SOURCE: timeline\2023\december\index.html
+URL:    https://x.com/Matthew49200183/status/1736259282029473849
+FINAL:  https://x.com/FUTUREXgu/status/1736259282029473849
+
+SOURCE: timeline\2023\december\index.html
+URL:    https://x.com/Matthew49200183/status/1721129961904377859
+FINAL:  https://x.com/FUTUREXgu/status/1721129961904377859
+
+SOURCE: timeline\2023\december\index.html
+URL:    https://www.dhamma.org/
+FINAL:  https://www.dhamma.org/en/index
+
+SOURCE: timeline\2023\december\index.html
+URL:    https://x.com/search?q=(from%3A1FRGVN)%20(to%3AAIinAmerica)%20&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253A1FRGVN%2529%2B%2528to%253AAIinAmerica%2529&mode=login
+
+SOURCE: timeline\2023\december\index.html
+URL:    https://x.com/search?q=(to%3A1FRGVN)%20(from%3AAIinAmerica)%20&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528to%253A1FRGVN%2529%2B%2528from%253AAIinAmerica%2529&mode=login
+
+SOURCE: timeline\2023\december\index.html
+URL:    https://x.com/astralmatrix/
+FINAL:  https://x.com/astralmatrix
+
+SOURCE: timeline\2023\february\index.html
+URL:    https://portal.edu.gva.es/conservatoridenia/es/centro/organigrama/
+FINAL:  https://portal.edu.gva.es/conservatoridenia/organigrama/
+
+SOURCE: timeline\2023\february\index.html
+URL:    https://x.com/search?q=silvia%20(from%3A1frgvn)&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3Dsilvia%2B%2528from%253A1frgvn%2529&mode=login
+
+SOURCE: timeline\2023\july\index.html
+URL:    https://x.com/search?q=(from%3A1frgvn)%20until%3A2023-08-01%20since%3A2023-06-30&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253A1frgvn%2529%2Buntil%253A2023-08-01%2Bsince%253A2023-06-30&mode=login
+
+SOURCE: timeline\2023\june\index.html
+URL:    https://www.google.com/maps/place/Iglesia+Agustinas+Recoletas,+D%C3%A9nia/@38.8404519,0.1035054,19z/data=!4m15!1m8!3m7!1s0x129e1b22919b9785:0xcd3bcc58c432965f!2sC%2F+de+Loreto,+03700+D%C3%A9nia,+Alacant,+Spain!3b1!8m2!3d38.8404519!4d0.1044442!16s%2Fg%2F1w3swvhw!3m5!1s0x129e1b2297b6860d:0xeba2d1d681469aaa!8m2!3d38.8404811!4d0.1039396!16s%2Fg%2F12qf4wb9n?entry=ttu&amp;g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D
+FINAL:  https://consent.google.com/ml?continue=https://www.google.com/maps/place/Iglesia%2BAgustinas%2BRecoletas,%2BD%25C3%25A9nia/@38.8404519,0.1035054,19z/data%3D!4m15!1m8!3m7!1s0x129e1b22919b9785:0xcd3bcc58c432965f!2sC%252F%2Bde%2BLoreto,%2B03700%2BD%25C3%25A9nia,%2BAlacant,%2BSpain!3b1!8m2!3d38.8404519!4d0.1044442!16s%252Fg%252F1w3swvhw!3m5!1s0x129e1b2297b6860d:0xeba2d1d681469aaa!8m2!3d38.8404811!4d0.1039396!16s%252Fg%252F12qf4wb9n?entry%3Dttu%26amp;g_ep%3DEgoyMDI1MDQzMC4xIKXMDSoASAFQAw%253D%253D&gl=FR&m=0&pc=m&uxe=eomtm&cm=2&hl=fr&src=1
+
+SOURCE: timeline\2023\june\index.html
+URL:    https://x.com/search?q=two-way%20defense%20(from%3A1frgvn)&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3Dtwo-way%2Bdefense%2B%2528from%253A1frgvn%2529&mode=login
+
+SOURCE: timeline\2023\may\index.html
+URL:    https://transformingtouch.com/transforming-the-experience-based-brain/
+FINAL:  https://transformingtouch.com/transforming-touch/
+
+SOURCE: timeline\2023\november\index.html
+URL:    https://www.google.com/maps/place/D%C3%A9nia,+Alicante,+Spain/@38.8407484,0.0914185,3a,90y,10.27h,79.58t/data=!3m7!1e1!3m5!1sOC2bNIiq-bCjgi3TQT8KPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.419428736231623%26panoid%3DOC2bNIiq-bCjgi3TQT8KPQ%26yaw%3D10.274182411708704!7i16384!8i8192!4m6!3m5!1s0x129e1b226dfbd341:0x86f3d778aff1e134!8m2!3d38.8387992!4d0.1050557!16zL20vMDFoc2Ri?entry=ttu&amp;g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D
+FINAL:  https://consent.google.com/ml?continue=https://www.google.com/maps/place/D%25C3%25A9nia,%2BAlicante,%2BSpain/@38.8407484,0.0914185,3a,90y,10.27h,79.58t/data%3D!3m7!1e1!3m5!1sOC2bNIiq-bCjgi3TQT8KPQ!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fcb_client%253Dmaps_sv.tactile%2526w%253D900%2526h%253D600%2526pitch%253D10.419428736231623%2526panoid%253DOC2bNIiq-bCjgi3TQT8KPQ%2526yaw%253D10.274182411708704!7i16384!8i8192!4m6!3m5!1s0x129e1b226dfbd341:0x86f3d778aff1e134!8m2!3d38.8387992!4d0.1050557!16zL20vMDFoc2Ri?entry%3Dttu%26amp;g_ep%3DEgoyMDI1MDYxNy4wIKXMDSoASAFQAw%253D%253D&gl=FR&m=0&pc=m&uxe=eomtm&cm=2&hl=fr&src=1
+
+SOURCE: timeline\2023\november\index.html
+URL:    https://x.com/search?f=live&amp;q=(from%3AMatthew49200183)%20(to%3A1frgvn)&amp;src=typed_query
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Ff%3Dlive%26amp%253Bq%3D%2528from%253AMatthew49200183%2529%2B%2528to%253A1frgvn%2529%26amp%253Bsrc%3Dtyped_query&mode=login
+
+SOURCE: timeline\2023\november\index.html
+URL:    https://x.com/Matthew49200183/status/1686307743815069696
+FINAL:  https://x.com/FUTUREXgu/status/1686307743815069696
+
+SOURCE: timeline\2023\october\index.html
+URL:    https://youtu.be/l30lsh0I3TY
+FINAL:  https://www.youtube.com/watch?v=l30lsh0I3TY&feature=youtu.be
+
+SOURCE: timeline\2023\october\index.html
+URL:    https://www.google.com/maps/@38.8442052,0.1081194,3a,75y,36.63h,77.57t/data=!3m7!1e1!3m5!1sB4ssIdTdFG6H4f6v4cNyeg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D12.43052595660501%26panoid%3DB4ssIdTdFG6H4f6v4cNyeg%26yaw%3D36.626678552174724!7i16384!8i8192?entry=ttu&amp;g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D
+FINAL:  https://consent.google.com/ml?continue=https://www.google.com/maps/@38.8442052,0.1081194,3a,75y,36.63h,77.57t/data%3D!3m7!1e1!3m5!1sB4ssIdTdFG6H4f6v4cNyeg!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fcb_client%253Dmaps_sv.tactile%2526w%253D900%2526h%253D600%2526pitch%253D12.43052595660501%2526panoid%253DB4ssIdTdFG6H4f6v4cNyeg%2526yaw%253D36.626678552174724!7i16384!8i8192?entry%3Dttu%26amp;g_ep%3DEgoyMDI0MTExMy4xIKXMDSoASAFQAw%253D%253D&gl=FR&m=0&pc=m&uxe=eomtm&cm=2&hl=fr&src=1
+
+SOURCE: timeline\2023\october\index.html
+URL:    https://www.youtube.com/@LaGataDeSchr%C3%B6dinger
+FINAL:  https://consent.youtube.com/ml?continue=https://www.youtube.com/@LaGataDeSchr%25C3%25B6dinger?cbrd%3D1&gl=FR&hl=fr&cm=2&pc=yt&src=1&escs=ATu9isFfJvDD3dhrEpiC7k9IbynBQxqJCkygMsNJ0MArCVOFOW-T_Ig4iLrKLlUO_nfERWvriOFw1G5dejY6v8NU1XMab-1cnfQL
+
+SOURCE: timeline\2023\october\index.html
+URL:    https://youtu.be/bMaCoxOGXPM
+FINAL:  https://www.youtube.com/watch?v=bMaCoxOGXPM&feature=youtu.be
+
+SOURCE: timeline\2023\september\index.html
+URL:    https://www.google.com/maps/place/D%C3%A9nia,+Alicante,+Spain/@38.8417355,0.1021768,3a,75y,33.36h,92.63t/data=!3m7!1e1!3m5!1sl105kjv2svEvpeM8-6XClg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.627702795661264%26panoid%3Dl105kjv2svEvpeM8-6XClg%26yaw%3D33.359835872520094!7i16384!8i8192!4m6!3m5!1s0x129e1b226dfbd341:0x86f3d778aff1e134!8m2!3d38.8387992!4d0.1050557!16zL20vMDFoc2Ri?entry=ttu&amp;g_ep=EgoyMDI1MDYwMi4wIKXMDSoASAFQAw%3D%3D
+FINAL:  https://consent.google.com/ml?continue=https://www.google.com/maps/place/D%25C3%25A9nia,%2BAlicante,%2BSpain/@38.8417355,0.1021768,3a,75y,33.36h,92.63t/data%3D!3m7!1e1!3m5!1sl105kjv2svEvpeM8-6XClg!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fcb_client%253Dmaps_sv.tactile%2526w%253D900%2526h%253D600%2526pitch%253D-2.627702795661264%2526panoid%253Dl105kjv2svEvpeM8-6XClg%2526yaw%253D33.359835872520094!7i16384!8i8192!4m6!3m5!1s0x129e1b226dfbd341:0x86f3d778aff1e134!8m2!3d38.8387992!4d0.1050557!16zL20vMDFoc2Ri?entry%3Dttu%26amp;g_ep%3DEgoyMDI1MDYwMi4wIKXMDSoASAFQAw%253D%253D&gl=FR&m=0&pc=m&uxe=eomtm&cm=2&hl=fr&src=1
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://x.com/search?q=(from%3A1frgvn)%20until%3A2024-04-29%20since%3A2024-04-28&amp;src=typed_query
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26q%3D%2528from%253A1frgvn%2529%2Buntil%253A2024-04-29%2Bsince%253A2024-04-28&mode=login
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://x.com/search?q=(from%3A1frgvn)%20until%3A2024-04-30%20since%3A2024-03-31&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253A1frgvn%2529%2Buntil%253A2024-04-30%2Bsince%253A2024-03-31&mode=login
+
+SOURCE: timeline\2024\april\index.html
+URL:    https://x.com/search?q=(from%3Ajackchardwood)%20until%3A2024-04-30%20since%3A2024-04-01&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253Ajackchardwood%2529%2Buntil%253A2024-04-30%2Bsince%253A2024-04-01&mode=login
+
+SOURCE: timeline\2024\december\index.html
+URL:    https://statement-bhw.pages.dev/
+FINAL:  https://fearandloathinginlasmarinas.com/
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://x.com/search?q=(from%3A1frgvn)%20(%40markmoseley072)&amp;f=live&amp;src=typed_query
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bf%3Dlive%26amp%253Bsrc%3Dtyped_query%26q%3D%2528from%253A1frgvn%2529%2B%2528%2540markmoseley072%2529&mode=login
+
+SOURCE: timeline\2024\february\index.html
+URL:    https://x.com/1FRGVN/highlights
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2F1FRGVN%2Fhighlights&mode=login
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://x.com/search?q=(from%3A1frgvn)%20until%3A2024-02-01%20since%3A2024-01-01&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253A1frgvn%2529%2Buntil%253A2024-02-01%2Bsince%253A2024-01-01&mode=login
+
+SOURCE: timeline\2024\january\index.html
+URL:    https://x.com/search?q=(from%3ACult_De_Plucker)%20(to%3A1frgvn)&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253ACult_De_Plucker%2529%2B%2528to%253A1frgvn%2529&mode=login
+
+SOURCE: timeline\2024\june\index.html
+URL:    https://x.com/ReduxxMag/status/1692260173069619599
+FINAL:  https://x.com/reduxx/status/1692260173069619599
+
+SOURCE: timeline\2024\march\1-12\index.html
+URL:    https://x.com/search?q=(from%3A1frgvn)%20until%3A2024-03-13%20since%3A2024-03-11&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253A1frgvn%2529%2Buntil%253A2024-03-13%2Bsince%253A2024-03-11&mode=login
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://twitter.com/1frgvn
+FINAL:  https://x.com/1frgvn
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://x.com/search?q=%20%20(from%3AHEncore49002)%20(to%3A1frgvn)&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253AHEncore49002%2529%2B%2528to%253A1frgvn%2529&mode=login
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://maps.app.goo.gl/kkKTifiGY7Py6QQ26?g_st=iw
+FINAL:  https://consent.google.com/ml?continue=https://maps.google.com/maps?q%3DCarrer%2BJuan%2BSebasti%25C3%25A1n%2BElcano,%2B24,%2B03550%2BSant%2BJoan%2Bd'Alacant,%2BAlacant,%2BSpain%26ftid%3D0xd623a1ce16ef3bb:0x570f37dfb438c78d%26entry%3Dgps%26lucs%3D,94212782,47071704,94206166,47069508,94212608,94214166,47084304%26g_ep%3DCAISDTYuMTA3LjMuNDk1NDAYACDXggMqPyw5NDIxMjc4Miw0NzA3MTcwNCw5NDIwNjE2Niw0NzA2OTUwOCw5NDIxMjYwOCw5NDIxNDE2Niw0NzA4NDMwNEICR0I%253D%26g_st%3Diw&gl=FR&m=0&pc=m&uxe=eomtm&cm=2&hl=fr&src=1
+
+SOURCE: timeline\2024\march\13-end\index.html
+URL:    https://x.com/search?q=(from%3Ajackchardwood)%20until%3A2024-03-31%20since%3A2024-03-01&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253Ajackchardwood%2529%2Buntil%253A2024-03-31%2Bsince%253A2024-03-01&mode=login
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://x.com/search?q=%20(to%3Ajackchardwood)(from%3Abeams_game)&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528to%253Ajackchardwood%2529%2528from%253Abeams_game%2529&mode=login
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://youtu.be/l9X6o11IwBc?t=1988
+FINAL:  https://www.youtube.com/watch?t=1988&v=l9X6o11IwBc&feature=youtu.be
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://x.com/search?q=(from%3A1frgvn)%20until%3A2024-05-20%20since%3A2024-05-11&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253A1frgvn%2529%2Buntil%253A2024-05-20%2Bsince%253A2024-05-11&mode=login
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://x.com/search?f=live&amp;q=(from%3A1frgvn)%20until%3A2024-05-31%20since%3A2024-05-01&amp;src=typed_query
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Ff%3Dlive%26amp%253Bq%3D%2528from%253A1frgvn%2529%2Buntil%253A2024-05-31%2Bsince%253A2024-05-01%26amp%253Bsrc%3Dtyped_query&mode=login
+
+SOURCE: timeline\2024\may\index.html
+URL:    https://x.com/search?q=(from%3AJackChardwood)%20until%3A2024-05-31%20since%3A2024-05-01&amp;src=typed_query&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26amp%253Bf%3Dlive%26q%3D%2528from%253AJackChardwood%2529%2Buntil%253A2024-05-31%2Bsince%253A2024-05-01&mode=login
+
+SOURCE: timeline\2024\november\index.html
+URL:    https://www.nexera.foundation/
+FINAL:  https://www.nexera.network/
+
+SOURCE: timeline\2024\october\index.html
+URL:    https://x.com/1FRGVN/status/1844468797044052150/photo/1
+FINAL:  https://x.com/1FRGVN/status/1844468797044052150
+
+SOURCE: timeline\2024\september\index.html
+URL:    https://x.com/hashtag/WhoIsThisSeries?src=hashtag_click&amp;f=live
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fhashtag%2FWhoIsThisSeries%3Fsrc%3Dhashtag_click%26amp%253Bf%3Dlive&mode=login
+
+SOURCE: timeline\2025\april\index.html
+URL:    https://x.com/search?q=cambridge%20(%401frgvn)&amp;src=typed_query
+FINAL:  https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Famp%253Bsrc%3Dtyped_query%26q%3Dcambridge%2B%2528%25401frgvn%2529&mode=login
+
+SOURCE: timeline\2025\august\index.html
+URL:    https://youtu.be/YFham2Xu6nA
+FINAL:  https://www.youtube.com/watch?v=YFham2Xu6nA&feature=youtu.be
+
+SOURCE: timeline\2025\december\index.html
+URL:    https://x.com/JCToT19/
+FINAL:  https://x.com/JCToT19
+
+SOURCE: timeline\2025\february\index.html
+URL:    https://statement-bhw.pages.dev/
+FINAL:  https://fearandloathinginlasmarinas.com/
+
+SOURCE: timeline\2025\march\index.html
+URL:    https://statement-bhw.pages.dev/
+FINAL:  https://fearandloathinginlasmarinas.com/
+
+SOURCE: timeline\2026\july\index.html
+URL:    https://www.google.com/maps/place/Sadana+@+Ciputra+Beach+Resort/@-8.5932351,115.0780038,867m/data=!3m1!1e3!4m14!1m7!3m6!1s0x2dd239494be08af1:0x89c8ea0c1bf6dc31!2sLoka+Yoga+School!8m2!3d-8.5945877!4d115.0846235!16s%2Fg%2F11nym8642j!3m5!1s0x2dd2377225ebba59:0x3c00335d560f8679!8m2!3d-8.5937484!4d115.0758602!16s%2Fg%2F11h71kwypp?entry=ttu&amp;g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D
+FINAL:  https://consent.google.com/ml?continue=https://www.google.com/maps/place/Sadana%2B@%2BCiputra%2BBeach%2BResort/@-8.5932351,115.0780038,867m/data%3D!3m1!1e3!4m14!1m7!3m6!1s0x2dd239494be08af1:0x89c8ea0c1bf6dc31!2sLoka%2BYoga%2BSchool!8m2!3d-8.5945877!4d115.0846235!16s%252Fg%252F11nym8642j!3m5!1s0x2dd2377225ebba59:0x3c00335d560f8679!8m2!3d-8.5937484!4d115.0758602!16s%252Fg%252F11h71kwypp?entry%3Dttu%26amp;g_ep%3DEgoyMDI2MDgxMi4wIKXMDSoASAFQAw%253D%253D&gl=FR&m=0&pc=m&uxe=eomtm&cm=2&hl=fr&src=1
+
